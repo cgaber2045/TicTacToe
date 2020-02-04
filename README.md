@@ -1,2 +1,2 @@
 # TicTacToe
-Customizable TicTacToe game created using a GUI
+Customizable GUI TicTacToe game created using Java
